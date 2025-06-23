@@ -1,1 +1,8 @@
+! Title: AdGuardHome白名单
+! Version: 202506230958
+! Homepage: https://github.com/TKinor/Clash/AdGuard/
+! Total lines: 1
+! Note: 本规则相对于广告隐私保护更注重功能性、便捷性和效率。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
+! ================= dmm =================
+ip.affiliate.dmm.com^
