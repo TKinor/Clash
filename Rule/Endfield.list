@@ -1,1 +1,5 @@
-eventlog.gryphline.com:80
+# NAME: Endfield
+# AUTHOR: Kinor
+DOMAIN-KEYWORD,gryphline
+# IP-CIDR,198.18.3.0/21,no-resolve
+# IP-CIDR,198.18.4.0/21,no-resolve
